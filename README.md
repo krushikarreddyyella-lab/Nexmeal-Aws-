@@ -1,5 +1,3 @@
-# Nexmeal-Aws-
-Surplus today. Sustenance tomorrow
 
 # Nexmeal
 
@@ -9,7 +7,7 @@ AI-powered surplus food rescue. Nexmeal connects restaurants, hotels, hostels an
 
 Built for the [AWS Agent Experience Hackathon: Strands Decider](https://builder.aws.com/build/hackathons/4f50957c-1d08-37ab-b11c-97516b9adeb4/agent-experience-hackathon-strands-decider).
 
-- **Live demo:** https://nexmeal-aws-project.vercel.app/
+- **Live demo:** https://nexmeal-aws-hac.vercel.app/
 - **Article:** [link to your Builder Center article]
 - **Demo video:** [link to your video]
 
